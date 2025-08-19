@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm 53n53
+
+💻 **Software Developer** specialized in **Java** (and also experienced with **C#**).  
+I enjoy writing clean, maintainable code and continuously improving my skills by learning new technologies.  
+I believe great software comes from **attention to detail** and strong **teamwork**.
 
 <!--
 **53n53/53n53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
